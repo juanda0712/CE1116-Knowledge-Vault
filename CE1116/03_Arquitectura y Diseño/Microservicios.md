@@ -2,7 +2,7 @@
 Fecha de creación: 2025-08-05 00:10
 Fecha de Modificación: 2025-08-05 00:10
 tags:
-  - arquitectura
+  - "#arquitectura"
 Topic:
   - estilos-arquitectura-software
 ---
@@ -15,7 +15,7 @@ Topic:
 - 
 
 ## 🔗 Connections
-- [[ ]]
+- [[Ejemplo Nueva Nota]]
 
 ## 💡 Personal Insight (Opcional)
 - 
