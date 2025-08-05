@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monitoreo de Aplicación"
+              "title": "README"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monitoreo de Aplicación"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Monitoreo de Aplicación"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Monitoreo de Aplicación"
+              "title": "Outline of README"
             }
           }
         ]
@@ -284,12 +284,12 @@
   },
   "active": "82b38aac170fb591",
   "lastOpenFiles": [
-    "CE1116/04_Implementación/Estándares de Programación.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "CE1116/04_Implementación/Estándares de Programación.md",
     "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
     "CE1116/05_Pruebas/Pruebas Unitarias.md",
     "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/03_Arquitectura y Diseño/Microservicios.md",
     "CE1116/02_Requirimientos/Entrevistas.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
