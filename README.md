@@ -1,6 +1,6 @@
 # CE1116-Knowledge-Vault
 
-## **Proceso de creación de notas"
+## **Proceso de creación de notas**
 - **Importante:** Cuando se usa el comando Ctrl+Alt+A: automáticamente se agrega una nueva nota en el folder de inbox con el título que se ingrese en el cuadro de texto que aparece después del comando. 
 - El título de la nota y el nombre del archivo son iguales y deben ser únicos, de no serlo automáticamente se agrega un número de consecutivo al final del nombre.
 - La fecha de creación y modificación se autogeneran durante la creación. La fecha de modificación permite llevar un control personal de cuando se cambia la nota, pero apartir de su creación su mantenimiento es manual.
