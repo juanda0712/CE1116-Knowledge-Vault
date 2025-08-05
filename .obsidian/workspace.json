@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of README"
             }
           }
         ]
@@ -184,13 +184,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d8579cf50d099e",
+  "active": "84d3235176a5ae4b",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE",
-    "ce1116.pub",
-    "ce1116",
-    "desktop.ini",
-    "Welcome.md"
+    "CE1116/08_Templates",
+    "CE1116/00_Inbox",
+    "CE1116/07_Maintenance",
+    "06_Maintenance",
+    "Untitled",
+    "CE1116/06_Deployment",
+    "CE1116/05_Testing",
+    "CE1116/04_Implementation",
+    "CE1116/03_Architecture and Design",
+    "Welcome.md",
+    "CE1116/02_Requirements",
+    "CE1116/01_Development Process",
+    "README.md"
   ]
 }
