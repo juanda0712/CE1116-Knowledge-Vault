@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f279a1b143db1f70",
+    "id": "e79440507461e536",
     "type": "split",
     "children": [
       {
-        "id": "11d0e924b31c6c77",
+        "id": "f51a07d5af7a4ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee79ba50f8da2d1",
+            "id": "e97e0b6a41b0e519",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/03_Artefactos Scrum/Taskboard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Taskboard"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9c70527e114948c5",
+    "id": "280e48d64ce0d990",
     "type": "split",
     "children": [
       {
-        "id": "b7d692dab632a247",
+        "id": "ee560147c36508e7",
         "type": "tabs",
         "children": [
           {
-            "id": "84d3235176a5ae4b",
+            "id": "d2598dec19eafab1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "db16e484f5c7cb1a",
+            "id": "806388dca2add27c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "3affe3fbcfbbf357",
+            "id": "9938a5194b0b588c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "825d4fa8716a355e",
+    "id": "d0207f73f5be7f01",
     "type": "split",
     "children": [
       {
-        "id": "6bb6defe4507f10f",
+        "id": "21d0d9c682f89f56",
         "type": "tabs",
         "children": [
           {
-            "id": "651482cb177f60a4",
+            "id": "60d2542a76f8e317",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "04_Implementación/Estándares de Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Estándares de Programación"
             }
           },
           {
-            "id": "85460fac7dc49ea8",
+            "id": "6b6e351ef068cb63",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "04_Implementación/Estándares de Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Estándares de Programación"
             }
           },
           {
-            "id": "fa2c1834295a6989",
+            "id": "7c1fc320aeb4f348",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +133,18 @@
             }
           },
           {
-            "id": "c2ac073a0c18f349",
+            "id": "7ba23dd277aa3211",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "04_Implementación/Estándares de Programación.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Estándares de Programación"
             }
           }
         ]
@@ -160,55 +156,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "8ee79ba50f8da2d1",
+  "active": "d2598dec19eafab1",
   "lastOpenFiles": [
-    "CE1116/03_Artefactos Scrum/Sprint Backlog.md",
-    "CE1116/03_Artefactos Scrum/Product Backlog.md",
-    "CE1116/05_Prácticas Scrum/User Story.md",
-    "CE1116/05_Prácticas Scrum/Sprint Planning.md",
-    "CE1116/05_Prácticas Scrum/Definition of Done.md",
-    "CE1116/04_Roles en Scrum/Product Owner.md",
-    "CE1116/03_Artefactos Scrum/Velocity.md",
-    "CE1116/03_Artefactos Scrum/Taskboard.md",
-    "CE1116/03_Artefactos Scrum/Story Points.md",
-    "CE1116/03_Artefactos Scrum/Planning Poker.md",
-    "CE1116/02_Filosofía Ágil/Scrum.md",
-    "CE1116/02_Filosofía Ágil/Filosofía Ágil.md",
-    "CE1116/01_Requerimientos/Stakeholder.md",
-    "CE1116/01_Requerimientos/Requerimientos No Funcionales.md",
-    "CE1116/01_Requerimientos/Requerimientos Funcionales.md",
-    "CE1116/01_Requerimientos/Requerimientos de Sistema.md",
-    "CE1116/01_Requerimientos/Requerimientos de Negocio.md",
-    "CE1116/01_Requerimientos/Pruebas Funcionales.md",
-    "CE1116/Recursos/README.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/05_Prácticas Scrum",
-    "CE1116/04_Roles en Scrum",
-    "CE1116/03_Artefactos Scrum",
-    "CE1116/Prácticas Scrum/Sprint Planning.md",
-    "CE1116/Prácticas Scrum/User Story.md",
-    "CE1116/Prácticas Scrum/Definition of Done.md",
-    "CE1116/Prácticas Scrum",
-    "CE1116/Artefactos Scrum/Taskboard.md",
-    "CE1116/Artefactos Scrum/Velocity.md",
-    "CE1116/Artefactos Scrum/Product Backlog.md",
-    "CE1116/Artefactos Scrum",
-    "CE1116/04_/Artefactos Scrum",
-    "CE1116/04_",
-    "CE1116/03_Prácticas Scrum",
-    "CE1116/02_Filosofía Ágil",
-    "CE1116/01_Requerimientos",
-    "CE1116/Untitled.canvas",
-    "Untitled.canvas"
+    "Untitled.canvas",
+    "04_Implementación/Estándares de Programación.md",
+    "03_Arquitectura y Diseño/Microservicios.md",
+    "01_Procesos de Desarrollo/Scrum.md",
+    "08_Templates/Atomic Template.md",
+    "00_Inbox/Ejemplo Nueva Nota.md"
   ]
 }
