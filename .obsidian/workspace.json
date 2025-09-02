@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE1116/03_Artefactos Scrum/Taskboard.md",
+                "file": "CE1116/06_IA Fundamentos/Ventana de Contexto del modelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taskboard"
+              "title": "Ventana de Contexto del modelo"
             }
           }
         ]
@@ -172,6 +172,14 @@
   },
   "active": "8ee79ba50f8da2d1",
   "lastOpenFiles": [
+    "CE1116/06_IA Fundamentos/Large Language Models (LLMs).md",
+    "CE1116/06_IA Fundamentos/Mecanismo de atención utilizado en la arquitectura de Transformers.md",
+    "CE1116/06_IA Fundamentos/Redes Neuronales.md",
+    "CE1116/06_IA Fundamentos/Embeddings.md",
+    "CE1116/06_IA Fundamentos/Tokenizacion.md",
+    "CE1116/06_IA Fundamentos/Ventana de Contexto del modelo.md",
+    "Tokenización.md",
+    "CE1116/03_Artefactos Scrum/Taskboard.md",
     "CE1116/03_Artefactos Scrum/Sprint Backlog.md",
     "CE1116/03_Artefactos Scrum/Product Backlog.md",
     "CE1116/05_Prácticas Scrum/User Story.md",
@@ -179,7 +187,6 @@
     "CE1116/05_Prácticas Scrum/Definition of Done.md",
     "CE1116/04_Roles en Scrum/Product Owner.md",
     "CE1116/03_Artefactos Scrum/Velocity.md",
-    "CE1116/03_Artefactos Scrum/Taskboard.md",
     "CE1116/03_Artefactos Scrum/Story Points.md",
     "CE1116/03_Artefactos Scrum/Planning Poker.md",
     "CE1116/02_Filosofía Ágil/Scrum.md",
@@ -191,17 +198,10 @@
     "CE1116/01_Requerimientos/Requerimientos de Negocio.md",
     "CE1116/01_Requerimientos/Pruebas Funcionales.md",
     "CE1116/Recursos/README.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/05_Prácticas Scrum",
     "CE1116/04_Roles en Scrum",
     "CE1116/03_Artefactos Scrum",
-    "CE1116/Prácticas Scrum/Sprint Planning.md",
-    "CE1116/Prácticas Scrum/User Story.md",
-    "CE1116/Prácticas Scrum/Definition of Done.md",
     "CE1116/Prácticas Scrum",
-    "CE1116/Artefactos Scrum/Taskboard.md",
-    "CE1116/Artefactos Scrum/Velocity.md",
-    "CE1116/Artefactos Scrum/Product Backlog.md",
     "CE1116/Artefactos Scrum",
     "CE1116/04_/Artefactos Scrum",
     "CE1116/04_",
